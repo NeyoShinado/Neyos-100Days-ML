@@ -1,6 +1,12 @@
 # Neyo's 100Days-ML
 
-100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+This is a programming training task of Machine Learning which was conducted after
+"100 Days of Machine Learning Coding" as proposed by [Siraj Raval](https://github.com/llSourcell)
+
+Let me show my appreciation here to the original author's works and contributions.
+Let's start and have fun! :-)
+
+---------------------------------------------------------------------------------------
 
 Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
