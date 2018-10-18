@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 
 
 # data preprocessing
-dataset = pd.read_csv('D:/Software/Github/Project/100-Days-Of-ML-Code/datasets/studentscores.csv')
+dataset = pd.read_csv('studentscores.csv')
 X = dataset.iloc[ : , : 1].values
 Y = dataset.iloc[ : , 1].values
 
