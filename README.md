@@ -10,7 +10,7 @@ Let's start and have fun! :-)
 
 Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
-## Day 1 |  Data PreProcessing
+## Day 1 |  Data PreProcessing √
 Check out the code from
 [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
