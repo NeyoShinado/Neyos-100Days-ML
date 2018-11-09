@@ -28,11 +28,22 @@ Check out the code from
   scr="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
-## Day 3 |Multiple Linear Regression √
+## Day 3 | Multiple Linear Regression √
 Check out the code from
 [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md)
 
 <p align="center">
-   <img
+  <img
    src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
+
+## Day 4 | Logistic Regression √
+<p align="center">
+  <img
+  src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
+</p
+
+## Day 5 | Logistic regression
+Moving forward into #100Days-of-ML code today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.
+Due to lee time I will now be posting an infographic on alternate days.
+Also if someone wants to help me out in focumentation of code and already has some experience in the field and knows Markdown for github please contact me on LinkedIn :).
